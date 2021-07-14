@@ -1,0 +1,3 @@
+Reading list from the file, the file that was written in the example above is read in this example. 
+The file is opened using the open() method in read r mode. The data read from the file is printed to the output screen. 
+The file opened is closed using the close() method.The file is opened with the open() method in abhishekjosephistrying a mode within the with block, the a argument will append text to an existing text file. The with block ensures that once the entire block is executed the file is closed automatically.

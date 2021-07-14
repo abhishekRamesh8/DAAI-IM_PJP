@@ -1,0 +1,1 @@
+[print(i, end=' ') for i in range(23+1, 57+1, 2)]
